@@ -8,7 +8,7 @@
 
 //the following variable enable the modbus library through RS485
 //https://code.google.com/p/simple-modbus/
-#define MODBUS_RS485_ENABLE 1
+//#define MODBUS_RS485_ENABLE 1
 
 #include "Arduino.h"
 

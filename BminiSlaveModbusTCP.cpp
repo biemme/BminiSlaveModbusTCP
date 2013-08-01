@@ -22,10 +22,10 @@ Biemme Italia 2013
 
 //analog pins
 
-#define ANALOG1 2
+#define ANALOG1 5
 #define ANALOG2 3
 #define ANALOG3 4
-#define ANALOG4 5
+#define ANALOG4 2
 
 // pins initialization
 void pin_init(){
